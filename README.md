@@ -1,10 +1,10 @@
-### Hola soy David Gantiva C 👋
-* Estudiante de la Escuela Colombiana de Ingenieria Julio Garavito
-* Interesado y estudiando en las areas de:
-*  Inteligencia artificial (Deep Learning, Machine learning).
-*  Analitica de Datos.
-*  Sistemas Embebidos.
-*  Telecomunicaciones.
-*  Control y Automatizacion.
-*  Diseño electronico.
-*  Y poquito mas..
+### Hi👋 I am David Gantiva C
+* DevOps Engineering
+* Degree at Electronic Engineering.
+* Back-end with Java and Spring boot by Alura Latam (331 hours).
+*  AWS-GCP-OCI
+*  Terraform (AWS).
+*  CI/CD (GitHub Actions).
+*  Grafana
+*  Coding:
+*  C, Java, Python, JavaScript, C++, SQL 
